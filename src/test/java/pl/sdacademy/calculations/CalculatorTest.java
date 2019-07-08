@@ -1,15 +1,22 @@
 package pl.sdacademy.calculations;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest {
 
+    private Calculator calculator;
+
+    @BeforeEach
+    void setUp() {
+        calculator = new Calculator();
+    }
+
     @Test
     void shouldAddTwoNumber() {
         //given
-        final Calculator calculator = new Calculator();
         final double numA = 2;
         final double numB = 3;
         //when
@@ -20,7 +27,7 @@ class CalculatorTest {
 
     @Test
     void shouldSubstractTwoNumbers() {
-        final Calculator calculator = new Calculator();
+        ;
         final double numA = 3.8;
         final double numB = 2.5;
 
@@ -31,7 +38,6 @@ class CalculatorTest {
 
     @Test
     void shouldMultiplyTwoNumbers() {
-        final Calculator calculator = new Calculator();
         final double numA = 2.1;
         final double numB = 3.0;
 
