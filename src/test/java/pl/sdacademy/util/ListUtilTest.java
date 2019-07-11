@@ -18,7 +18,5 @@ class ListUtilTest {
         assertIterableEquals(Arrays.asList(6, 10, 8, 2), doubleValues);
     }
 
-    @Test
-    void doubleInputValue() {
-    }
+
 }

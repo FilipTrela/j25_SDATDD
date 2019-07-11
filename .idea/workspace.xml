@@ -2,13 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505a62c8-7161-4f56-8adb-11a80d17e243" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/IntegerUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/ListUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseStoreCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/javagda25/Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/DividePossitiveArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciNegativeArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciPossitiveArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciSeriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/javagda25/MonthsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/javagda25/ProvaideNegativeArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonVerifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/user/PersonNegativeAgeArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/user/PersonTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/PolishPersonUtilTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/javagda25/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/services/AgeVerifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/services/AgeVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/util/PolishPersonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/util/PolishPersonUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/IntegerUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/IntegerUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/ListUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/ListUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/services/AgeVerifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/services/AgeVerifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/util/PolishPersonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/util/PolishPersonUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/calculations/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/calculations/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/database/DatabaseStoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/database/DatabaseStoreTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/util/IntegerUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/util/IntegerUtilsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/util/ListUtilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/util/ListUtilTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,38 +42,110 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tdd$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1562776645151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.sdacademy.calculations.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tdd$FibonacciSeriesTest.ic" NAME="FibonacciSeriesTest Coverage Results" MODIFIED="1562777296095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.sdacademy.calculations.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="286">
+              <caret line="13" column="2" selection-start-line="13" selection-end-line="13" selection-end-column="57" />
+              <folding>
+                <element signature="method#shouldThrowExceptionWhenTryToGetPersonByWrongEmail#0;class#PersonServiceTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonVerifierTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="106" column="71" selection-start-line="106" selection-start-column="71" selection-end-line="106" selection-end-column="71" />
+              <folding>
+                <element signature="method#shouldThrownExceptionWhenAgeIsValid#0;class#PersonVerifierTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseStoreCopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#setUpTestCase#0;class#DatabaseStoreTest#0" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="method#shuldAddSingleData#0;class#DatabaseStoreTest#0" />
-                <element signature="method#shuldAddMultiplyData#0;class#DatabaseStoreTest#0" />
-                <element signature="e#1780#1785#0" />
-                <element signature="method#shuldRemoveMulyiplyDataWhenDatabaseIsNotEmpty#0;class#DatabaseStoreTest#0" />
-                <element signature="method#shuldDoNothingWhenTryToRemoveNotExistingElement#0;class#DatabaseStoreTest#0" />
-                <element signature="method#shuldDoNothingWhenTryToRemoveNotExistingElement#1;class#DatabaseStoreTest#0" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#1161#1162#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/CalculatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreCopyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-178">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="162">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/PersonVerifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="33" column="73" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/SurnameVerifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/PersonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,6 +156,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
@@ -72,9 +170,33 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/util/ListUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/ListUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/util/PolishPersonUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/PolishPersonUtilTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/javagda25/data.csv" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/javagda25/Month.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/javagda25/Months.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/javagda25/provaideNegativeArguments.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/javagda25/ProvaideNegativeArguments.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/javagda25/MonthsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciPossitiveArguments.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/util/IntegerUtilsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/calculations/DividePossitiveArgument.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/DividePossitiveArgument.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ExceptionsCauses.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciNegativeArguments.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciSeriesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/exceptions/DatabaseStoreException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/user/PersonNegativeAgeArguments.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/user/PersonTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/CalculatorTest3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/services/AgeVerifier.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseStoreCopy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreCopyTest.java" />
       </list>
     </option>
   </component>
@@ -85,7 +207,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -95,11 +217,13 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,6 +261,24 @@
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="sdatdd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdatdd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdatdd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -153,15 +295,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sdatdd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
-              <item name="calculations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
@@ -172,30 +305,126 @@
               <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdatdd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdatdd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.3.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-platform-commons-1.3.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-platform-commons-1.3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-platform-commons-1.3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562620715005" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562870663613" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="pl.sdacademy.util" />
       <recent name="pl.sdacademy.database" />
+      <recent name="pl.sdacademy.services" />
       <recent name="pl.sdacademy.calculations" />
+      <recent name="pl.sdacademy.user" />
+      <recent name="pl.sdacademy.javagda25" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sdacademy.user" />
+      <recent name="pl.sdacademy.calculations" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,8 +439,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DatabaseStoreTest">
-    <configuration name="DatabaseStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DatabaseStoreCopyTest.shouldOpenDatabaseConnectionWhenAddDataToDatabaseStore">
+    <configuration name="DatabaseStoreCopyTest.shouldOpenDatabaseConnectionWhenAddDataToDatabaseStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
@@ -220,71 +449,72 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.sdacademy.database" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.database.DatabaseStoreTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DatabaseStoreTest.shouldDoNothingWhenTryToAddDataNotGivenArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.sdacademy.database.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.database" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.database.DatabaseStoreTest" />
-      <option name="METHOD_NAME" value="shouldDoNothingWhenTryToAddDataNotGivenArgument" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.database.DatabaseStoreCopyTest" />
+      <option name="METHOD_NAME" value="shouldOpenDatabaseConnectionWhenAddDataToDatabaseStore" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseStoreTest.shuldCleanDataWhenDatabaseIsNotEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonVerifierTest.shouldThrownExceptionWhenAgeIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.database.*" />
+          <option name="PATTERN" value="pl.sdacademy.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.database" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.database.DatabaseStoreTest" />
-      <option name="METHOD_NAME" value="shuldCleanDataWhenDatabaseIsNotEmpty" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.services" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.services.PersonVerifierTest" />
+      <option name="METHOD_NAME" value="shouldThrownExceptionWhenAgeIsValid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseStoreTest.shuldDoNothingWhenTryToRemoveNotExistingElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonVerifierTest.shouldThrownExceptionWhenEmailIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.database.*" />
+          <option name="PATTERN" value="pl.sdacademy.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.database" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.database.DatabaseStoreTest" />
-      <option name="METHOD_NAME" value="shuldDoNothingWhenTryToRemoveNotExistingElement" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.services" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.services.PersonVerifierTest" />
+      <option name="METHOD_NAME" value="shouldThrownExceptionWhenEmailIsValid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseStoreTest.shuldDoNothingWhenTryToRemoveNotGivenArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonVerifierTest.shouldThrownExceptionWhenNameIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.database.*" />
+          <option name="PATTERN" value="pl.sdacademy.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.database" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.database.DatabaseStoreTest" />
-      <option name="METHOD_NAME" value="shuldDoNothingWhenTryToRemoveNotGivenArgument" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.services" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.services.PersonVerifierTest" />
+      <option name="METHOD_NAME" value="shouldThrownExceptionWhenNameIsValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonVerifierTest.shouldThrownExceptionWhenSurnameIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdacademy.services" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.services.PersonVerifierTest" />
+      <option name="METHOD_NAME" value="shouldThrownExceptionWhenSurnameIsValid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -292,11 +522,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DatabaseStoreTest" />
-        <item itemvalue="JUnit.DatabaseStoreTest.shouldDoNothingWhenTryToAddDataNotGivenArgument" />
-        <item itemvalue="JUnit.DatabaseStoreTest.shuldDoNothingWhenTryToRemoveNotGivenArgument" />
-        <item itemvalue="JUnit.DatabaseStoreTest.shuldDoNothingWhenTryToRemoveNotExistingElement" />
-        <item itemvalue="JUnit.DatabaseStoreTest.shuldCleanDataWhenDatabaseIsNotEmpty" />
+        <item itemvalue="JUnit.DatabaseStoreCopyTest.shouldOpenDatabaseConnectionWhenAddDataToDatabaseStore" />
+        <item itemvalue="JUnit.PersonVerifierTest.shouldThrownExceptionWhenSurnameIsValid" />
+        <item itemvalue="JUnit.PersonVerifierTest.shouldThrownExceptionWhenNameIsValid" />
+        <item itemvalue="JUnit.PersonVerifierTest.shouldThrownExceptionWhenEmailIsValid" />
+        <item itemvalue="JUnit.PersonVerifierTest.shouldThrownExceptionWhenAgeIsValid" />
       </list>
     </recent_temporary>
   </component>
@@ -310,110 +540,117 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562603179849</updated>
-      <workItem from="1562603181073" duration="10540000" />
+      <workItem from="1562603181073" duration="16811000" />
+      <workItem from="1562693401394" duration="17494000" />
+      <workItem from="1562854833661" duration="540000" />
+      <workItem from="1562857405006" duration="1035000" />
+      <workItem from="1562860737499" duration="9475000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntegerUtilsTest_shouldFilterNumber - 2019.07.08 at 21h 02m 03s.xml">
-      <configuration name="IntegerUtilsTest.shouldFilterNumber" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenAgeIsValid - 2019.07.11 at 19h 56m 41s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenAgeIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_shouldFilterNumber - 2019.07.08 at 21h 02m 10s.xml">
-      <configuration name="IntegerUtilsTest.shouldFilterNumber" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldNotThrownException - 2019.07.11 at 19h 56m 52s.xml">
+      <configuration name="PersonVerifierTest.shouldNotThrownException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_shouldFilterNumber - 2019.07.08 at 22h 56m 49s.xml">
-      <configuration name="IntegerUtilsTest.shouldFilterNumber" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenAgeIsValid - 2019.07.11 at 19h 57m 00s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenAgeIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_shouldFilterNumber - 2019.07.08 at 22h 58m 20s.xml">
-      <configuration name="IntegerUtilsTest.shouldFilterNumber" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenAgeIsValid - 2019.07.11 at 19h 57m 44s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenAgeIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DatabaseStoreTest_shuldCleanDataWhenDatabaseIsNotEmpty - 2019.07.08 at 23h 03m 13s.xml">
-      <configuration name="DatabaseStoreTest.shuldCleanDataWhenDatabaseIsNotEmpty" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenEmailIsValid - 2019.07.11 at 20h 06m 22s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenEmailIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DatabaseStoreTest_shuldCleanDataWhenDatabaseIsNotEmpty - 2019.07.08 at 23h 04m 08s.xml">
-      <configuration name="DatabaseStoreTest.shuldCleanDataWhenDatabaseIsNotEmpty" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenEmailIsValid - 2019.07.11 at 20h 06m 55s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenEmailIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DatabaseStoreTest_shuldDoNothingWhenTryToRemoveNotExistingElement - 2019.07.08 at 23h 11m 29s.xml">
-      <configuration name="DatabaseStoreTest.shuldDoNothingWhenTryToRemoveNotExistingElement" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenNameIsValid - 2019.07.11 at 20h 08m 54s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenNameIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DatabaseStoreTest_shuldDoNothingWhenTryToRemoveNotGivenArgument - 2019.07.08 at 23h 13m 01s.xml">
-      <configuration name="DatabaseStoreTest.shuldDoNothingWhenTryToRemoveNotGivenArgument" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenNameIsValid - 2019.07.11 at 20h 09m 18s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenNameIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DatabaseStoreTest_shouldDoNothingWhenTryToAddDataNotGivenArgument - 2019.07.08 at 23h 18m 28s.xml">
-      <configuration name="DatabaseStoreTest.shouldDoNothingWhenTryToAddDataNotGivenArgument" configurationId="JUnit" />
+    <history-entry file="PersonVerifierTest_shouldThrownExceptionWhenSurnameIsValid - 2019.07.11 at 20h 10m 49s.xml">
+      <configuration name="PersonVerifierTest.shouldThrownExceptionWhenSurnameIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DatabaseStoreTest - 2019.07.08 at 23h 18m 38s.xml">
-      <configuration name="DatabaseStoreTest" configurationId="JUnit" />
+    <history-entry file="DatabaseStoreCopyTest_shouldOpenDatabaseConnectionWhenAddDataToDatabaseStore - 2019.07.11 at 20h 39m 32s.xml">
+      <configuration name="DatabaseStoreCopyTest.shouldOpenDatabaseConnectionWhenAddDataToDatabaseStore" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10540000" />
+    <option name="totallyTimeSpent" value="45355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17315437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Learn" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,31 +664,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/util/IntegerUtilsTest2.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.2/junit-jupiter-api-5.3.2.jar!/org/junit/jupiter/api/Test.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="455">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/calculations/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/util/ListUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="method#shouldDoubleValues#0;class#ListUtilTest#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -462,63 +689,384 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/util/PolishPersonUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
+        <state relative-caret-position="22">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/util/IntegerUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/util/PolishPersonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="294">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/util/PolishPersonUtilTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/javagda25/Months.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/javagda25/ProvaideNegativeArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/javagda25/data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/util/IntegerUtilsTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/javagda25/MonthsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="method#getTestArgs#0;class#MonthsTest#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/util/IntegerUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        <state relative-caret-position="206">
+          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
+            <element signature="method#shouldFilterNumber#0;class#IntegerUtilsTest#0" />
+            <element signature="method#shouldFilterDigitsGreaterThanWhenFilterApply#0;class#IntegerUtilsTest#0" />
+            <element signature="method#shouldReturnLastEvenDigitWhenEvenDigitExist#0;class#IntegerUtilsTest#0" />
+            <element signature="method#shouldReturnNullWhenEvenDigitNotExist#0;class#IntegerUtilsTest#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/util/ListUtilTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/util/IntegerUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        <state relative-caret-position="75">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="method#filter#0;class#IntegerUtils#0" />
+            <element signature="method#filterDigitsGreaterThan#0;class#IntegerUtils#0" />
+            <element signature="method#getLastEvenDigit#0;class#IntegerUtils#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/calculations/DividePossitiveArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExceptionsCauses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setUpTestCase#0;class#DatabaseStoreTest#0" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="method#shuldAddSingleData#0;class#DatabaseStoreTest#0" />
-            <element signature="method#shuldAddMultiplyData#0;class#DatabaseStoreTest#0" />
-            <element signature="e#1780#1785#0" />
-            <element signature="method#shuldRemoveMulyiplyDataWhenDatabaseIsNotEmpty#0;class#DatabaseStoreTest#0" />
-            <element signature="method#shuldDoNothingWhenTryToRemoveNotExistingElement#0;class#DatabaseStoreTest#0" />
-            <element signature="method#shuldDoNothingWhenTryToRemoveNotExistingElement#1;class#DatabaseStoreTest#0" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-178">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="-506">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExceptionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/DividePossitiveArgument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciPossitiveArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="21" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/calculations/FibonacciSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/exceptions/DatabaseStoreException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="62" lean-forward="true" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar!/org/assertj/core/api/ThrowableAssert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/exceptions/DatabaseConnectionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciNegativeArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/user/PersonNegativeAgeArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2612">
+          <caret line="150" column="28" lean-forward="true" selection-start-line="150" selection-start-column="28" selection-end-line="150" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="method#shouldDoNothingWhenTryToRemoveDataNotGivenArgument#0;class#DatabaseStoreTest#0" />
+            <element signature="method#shouldDoNothingWhenTryToAddDataNotGivenArgument#0;class#DatabaseStoreTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/FibonacciSeriesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/user/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="37" column="72" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="74" />
+          <folding>
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/calculations/CalculatorTest3.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/calculations/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.2/junit-platform-commons-1.3.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/PersonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/EmailVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/user/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/user/PersonTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/NameVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/AgeVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/SurnameVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/services/PersonVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="33" column="73" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="7" lean-forward="true" selection-start-line="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="method#addData#0;class#DatabaseStore#0" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonVerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="106" column="71" selection-start-line="106" selection-start-column="71" selection-end-line="106" selection-end-column="71" />
+          <folding>
+            <element signature="method#shouldThrownExceptionWhenAgeIsValid#0;class#PersonVerifierTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/database/DatabaseStoreCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/services/PersonServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="2" selection-start-line="13" selection-end-line="13" selection-end-column="57" />
+          <folding>
+            <element signature="method#shouldThrowExceptionWhenTryToGetPersonByWrongEmail#0;class#PersonServiceTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/database/DatabaseStoreCopyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -528,9 +1076,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_211</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tdd</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8.0_212</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: net.bytebuddy:byte-buddy-agent:1.9.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
